@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://honestvacationsoffers.com/sitemap.xml
